@@ -1,0 +1,30 @@
+{
+    "name":"Jablicko's nades",
+    "description":"smokes",
+    "update_timestamp":1613957598,
+    "url":"https://raw.githubusercontent.com/strongruff/Jablicko/main/Jablicko's%20nades.json",
+    "locations":{
+       "de_mirage":[
+          {
+             "name":[
+                "alley",
+                "backsite"
+             ],
+             "description":"market to site vision",
+             "weapon":"weapon_smokegrenade",
+             "position":[
+                -160.00112915039,
+                760.03125,
+                -134.58938598633
+             ],
+             "viewangles":[
+                -19.110593795776,
+                -163.71762084961
+             ],
+             "grenade":{
+                "jump":true
+             }
+          }
+       ]
+    }
+ }
